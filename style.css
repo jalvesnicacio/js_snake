@@ -1,0 +1,11 @@
+#canvas {
+    border: 1px solid black;
+    background-color: white;
+  }
+
+html{
+    background-image: url("snake2.jpg");
+    background-position: right;
+    background-repeat: no-repeat;
+}
+  
